@@ -7,5 +7,7 @@ use CodeIgniter\Router\RouteCollection;
  */
 //routes otomatis
 $routes->setAutoRoute(false);
+
+$routes->get('/', 'Home::index'); // ← untuk halaman public (maps)
 $routes->get('/admin', 'Admin::index');
 $routes->get('/admin/setting', 'Admin::setting');
