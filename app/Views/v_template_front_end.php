@@ -31,7 +31,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
       <a href="<?= base_url('AdminLTE') ?>/index3.html" class="navbar-brand">
         <img src="<?= base_url('AdminLTE') ?>/dist/img/AdminLTELogo.png" class="me-2" style="height="45px" width="60px" alt="AdminLTE Logo">
       </a>
-      <h5><b>GIS</b> Tempat Kost</h5>
+      <h5><b>GIS</b> Lokasi Kost</h5>
       <button class="navbar-toggler order-1" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>

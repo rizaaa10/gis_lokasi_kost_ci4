@@ -11,3 +11,4 @@ $routes->setAutoRoute(false);
 $routes->get('/', 'Home::index'); // ← untuk halaman public (maps)
 $routes->get('/admin', 'Admin::index');
 $routes->get('/admin/setting', 'Admin::setting');
+$routes->post('/admin/updatesetting', 'Admin::UpdateSetting');

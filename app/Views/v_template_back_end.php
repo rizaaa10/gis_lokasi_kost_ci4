@@ -61,7 +61,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <!-- Brand Logo -->
     <a href="index3.html" class="brand-link">
       <img src="<?= base_url('AdminLTE') ?>/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-      <span class="brand-text font-weight-light">GIS Tempat Kost</span>
+      <span class="brand-text font-weight-light">GIS Lokasi Kost</span>
     </a>
 
     <!-- Sidebar -->
