@@ -2,9 +2,10 @@
 
 namespace App\Controllers;
 
+use CodeIgniter\Controller;
 use App\Models\ModelSetting;
 
-class Admin extends BaseController
+class Admin extends Controller
 {
     public function __construct()
     {
