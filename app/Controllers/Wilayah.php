@@ -4,12 +4,13 @@ namespace App\Controllers;
 
 use App\Controllers\BaseController;
 use App\Models\ModelWilayah;
-
+use App\Models\ModelSetting;
 class Wilayah extends BaseController
 {
     public function __construct()
     {
         $this->ModelWilayah = new ModelWilayah();
+        $this->ModelSetting = new ModelSetting();
     }
 
  public function index()
@@ -18,6 +19,7 @@ class Wilayah extends BaseController
         'judul' => 'Wilayah',
         'page' => 'wilayah/v_index',
         'wilayah' => $this->ModelWilayah->AllData(),
+         'web' => $this->ModelSetting->DataWeb(),
     ];
 
     return view('v_template_back_end', $data);

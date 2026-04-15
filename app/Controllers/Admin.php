@@ -10,6 +10,7 @@ class Admin extends Controller
     public function __construct()
     {
         $this->ModelSetting = new ModelSetting();
+        helper('form');
     }
 
     public function index()
