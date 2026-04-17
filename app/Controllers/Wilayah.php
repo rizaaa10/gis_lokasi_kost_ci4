@@ -24,4 +24,14 @@ class Wilayah extends BaseController
 
     return view('v_template_back_end', $data);
 }
+
+public function Input()
+{
+     $data = [
+        'judul' => 'Input Wilayah',
+        'page' => 'wilayah/v_input',
+    ];
+
+    return view('v_template_back_end', $data);
+}
 }
