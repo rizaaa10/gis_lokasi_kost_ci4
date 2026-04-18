@@ -13,6 +13,13 @@
               <!-- /.card-header -->
               <div class="card-body">
             
+            <?php if (session()->getFlashdata('insert')) : ?>
+    <div class="alert alert-success alert-dismissible">
+        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+        <h5><i class="icon fas fa-check"></i>
+        <?= session()->getFlashdata('insert') ?>
+    </h5></div>
+<?php endif; ?>
               <table id="example2" class="table table-bordered table-striped">
                 <thead>
                     <tr class="text-center">
@@ -87,12 +94,28 @@ L.control.layers(baseMaps).addTo(map);
 
 <?php foreach ($wilayah as $key => $value) { ?>
 L.geoJSON(<?= $value['geojson'] ?>, {
+    color: '<?= $value['warna'] ?>',
+    weight: 2,
     fillColor: '<?= $value['warna'] ?>',
-    fillOpacity: 0.5,
+    fillOpacity: 0.5
 })
 .bindPopup("<b><?= $value['nama_wilayah'] ?></b>")
 .addTo(map);
 <?php } ?>
+
+// Tambahan: load file GeoJSON langsung dari folder public/data
+$.getJSON("<?= base_url('data/bumiayu.geojson') ?>", function(data) {
+    L.geoJSON(data, {
+        style: {
+            color: 'blue',
+            weight: 2,
+            fillColor: 'blue',
+            fillOpacity: 0.5
+        }
+    }).bindPopup(function(layer) {
+        return "<b>" + layer.feature.properties.NAMOBJ + "</b>";
+    }).addTo(map);
+});
 
 </script>
 

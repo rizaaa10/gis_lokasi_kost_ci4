@@ -1,49 +1,59 @@
 <div class="col-md-12">
-            <div class="card card-outline card-primary">
-              <div class="card-header">
-                <h3 class="card-title"><?= $judul ?></h3>
-                <!-- /.card-tools -->
-              </div>
-              <!-- /.card-header -->
-              <div class="card-body">
+    <div class="card card-outline card-primary">
+        <div class="card-header">
+            <h3 class="card-title"><?= $judul ?></h3>
+        </div>
+        <div class="card-body">
+            <?= form_open('Wilayah/InsertData') ?>
 
-              <?php echo form_open('Wilayah/InsertData') ?>
+            <div class="row">
+                <!-- Kolom kiri -->
+                <div class="col-sm-6">
+                    <div class="form-group">
+                        <label>Nama Wilayah</label>
+                        <input name="nama_wilayah" 
+                               class="form-control <?= validation_show_error('nama_wilayah') ? 'is-invalid' : '' ?>" 
+                               value="<?= old('nama_wilayah') ?>">
+                        <div class="invalid-feedback">
+                            <?= validation_show_error('nama_wilayah') ?>
+                        </div>
+                    </div>
+                </div>
 
-              <div class="row">
-              <div class="col-sm-6">
-              
-              <div class="form-group">
-              <label>Nama Wilayah</label>
-              <input name="nama_wilayah" class="form-control">
-              </div>
-
-              </div>
-
-               <div class="col-sm-6">
-                <div class="form-group">
-              <label>Nama Wilayah</label>
-              <input name="nama_wilayah" class="form-control my-colorpicker1">
-              </div>
-              </div>
+                <!-- Kolom kanan -->
+                <div class="col-sm-6">
+                    <div class="form-group">
+                        <label>Warna Wilayah</label>
+                        <input name="warna" 
+                               class="form-control my-colorpicker1 <?= validation_show_error('warna') ? 'is-invalid' : '' ?>" 
+                               value="<?= old('warna') ?>">
+                        <div class="invalid-feedback">
+                            <?= validation_show_error('warna') ?>
+                        </div>
+                    </div>
+                </div>
             </div>
 
-             <div class="form-group">
-              <label>GeoJSON</label>
-                <textarea name="geojson" class="form-control" rows="15"></textarea>
-              </div>
+            <!-- Baris baru untuk GeoJSON -->
+            <div class="form-group">
+                <label>GeoJSON</label>
+                <textarea name="geojson" 
+                          class="form-control <?= validation_show_error('geojson') ? 'is-invalid' : '' ?>" 
+                          rows="15"><?= old('geojson') ?></textarea>
+                <div class="invalid-feedback">
+                    <?= validation_show_error('geojson') ?>
+                </div>
+            </div>
 
-               <button class="btn btn-primary btn-flat" type="submit">Simpan </button>
-               <a href="<?= base_url('Wilayah') ?>" class="btn btn-success btn-flat">Kembali </a>
+            <button class="btn btn-primary btn-flat" type="submit">Simpan</button>
+            <a href="<?= base_url('Wilayah') ?>" class="btn btn-success btn-flat">Kembali</a>
 
-              <?php echo form_close() ?>
+            <?= form_close() ?>
+        </div>
+    </div>
 </div>
-</div>
-</div>
-
 
 <script>
-    //Colorpicker
+    // Colorpicker
     $('.my-colorpicker1').colorpicker()
-    //color picker with addon
-    $('.my-colorpicker2').colorpicker()
 </script>

@@ -12,4 +12,9 @@ class ModelWilayah extends Model
         return $this->db->table('tbl_wilayah')
         ->get()->getResultArray();
     }
+
+    public function InsertData($data)
+    {
+        $this->db->table('tbl_wilayah')->insert($data);
+    }
 }

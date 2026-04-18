@@ -19,3 +19,4 @@ $routes->post('/admin/updatesetting', 'Admin::UpdateSetting');
 
 // WILAYAH (TAMBAHKAN INI)
 $routes->get('/wilayah', 'Wilayah::index');
+$routes->post('/wilayah/insertdata', 'Wilayah::InsertData');
