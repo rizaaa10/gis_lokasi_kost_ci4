@@ -32,4 +32,12 @@ class ModelWilayah extends Model
         ->update($data);
     }
 
+    
+    public function DeleteData($data)
+    {
+        $this->db->table('tbl_wilayah')
+        ->where('id_wilayah', $data['id_wilayah'])
+        ->delete();
+    }
+
 }

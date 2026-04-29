@@ -30,6 +30,14 @@
         <?= session()->getFlashdata('update') ?>
         </h5></div>
 <?php endif; 
+            //notif delete data
+            if (session()->getFlashdata('delete')) : ?>
+    <div class="alert alert-danger alert-dismissible">
+        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+        <h5><i class="icon fas fa-trash"></i>
+        <?= session()->getFlashdata('delete') ?>
+        </h5></div>
+<?php endif; 
             ?>
               <table id="example2" class="table table-bordered table-striped">
                 <thead>
@@ -49,7 +57,7 @@
                          <td style="background-color: <?php echo $value['warna']; ?>;"> </td>
                          <td class="text-center">
                           <a href="<?= base_url('Wilayah/Edit/' . $value['id_wilayah']) ?>" class="btn btn-sm btn-warning btn-flat"><i class="fas fa-pencil-alt"></i></a>
-                          <a href="<?= base_url('Wilayah/Delete/' . $value['id_wilayah']) ?>" class="btn btn-sm btn-danger btn-flat"><i class="fas fa-trash"></i></a>
+                          <a href="<?= base_url('Wilayah/Delete/' . $value['id_wilayah']) ?> " onclick="return confirm('Apakah Anda yakin ingin menghapus data ini?')" class="btn btn-sm btn-danger btn-flat"><i class="fas fa-trash"></i></a>
                          </td>
                     </tr>
                     <?php } ?>

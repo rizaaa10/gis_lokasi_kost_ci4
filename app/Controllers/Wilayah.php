@@ -21,6 +21,7 @@ class Wilayah extends BaseController
     {
         $data = [
             'judul'   => 'Wilayah',
+            'menu'    => 'wilayah',
             'page'    => 'wilayah/v_index',
             'wilayah' => $this->ModelWilayah->AllData(),
             'web'     => $this->ModelSetting->DataWeb(),
@@ -33,6 +34,7 @@ class Wilayah extends BaseController
     {
         $data = [
             'judul' => 'Input Wilayah',
+            'menu'    => 'wilayah',
             'page'  => 'wilayah/v_input',
             // kirim objek validation jika ada
             'validation' => \Config\Services::validation()
@@ -92,6 +94,7 @@ class Wilayah extends BaseController
     {
         $data = [
             'judul' => 'Edit Wilayah',
+            'menu'    => 'wilayah',
             'page'  => 'wilayah/v_edit',
             'wilayah' => $this->ModelWilayah->DetailData($id_wilayah),
             // kirim objek validation jika ada
@@ -145,5 +148,17 @@ class Wilayah extends BaseController
         session()->setFlashdata('insert', 'Data berhasil disimpan');
 
         return redirect()->to('Wilayah')->with('insert', 'Data berhasil disimpan');
+    }
+
+    public function Delete($id_wilayah) 
+    {
+        $data = [
+            'id_wilayah' => $id_wilayah
+        ];
+
+        $this->ModelWilayah->DeleteData($data);
+        session()->setFlashdata('delete', 'Data berhasil dihapus');
+
+        return redirect()->to('Wilayah')->with('delete', 'Data berhasil dihapus');
     }
 }

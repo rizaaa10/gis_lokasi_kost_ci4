@@ -25,3 +25,449 @@ DEBUG - 2026-04-29 07:17:12 --> Session: Class initialized using 'CodeIgniter\Se
 DEBUG - 2026-04-29 07:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 DEBUG - 2026-04-29 07:25:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 DEBUG - 2026-04-29 07:25:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 07:30:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 07:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 07:33:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 07:33:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 07:33:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 07:33:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 07:33:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 07:33:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 07:42:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 07:43:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 07:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 07:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 07:48:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 07:48:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 07:48:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-04-29 07:48:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 07:48:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 07:48:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 07:48:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 07:48:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 07:49:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 07:49:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-04-29 07:53:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 07:55:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 07:55:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 07:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 07:55:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 07:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 07:56:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 07:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 07:58:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 08:01:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 08:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 08:07:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 08:07:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 08:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-04-29 08:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-04-29 08:15:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "user/v_index.php"
+[Method: GET, Route: User]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/v_index.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('user/v_index', [], true)
+ 3 APPPATH\Views\v_template_back_end.php(213): view('user/v_index')
+ 4 SYSTEMPATH\View\View.php(240): include('C:\\laragon\\www\\gis_lokasi_kost_ci4\\app\\Views\\v_template_back_end.php')
+ 5 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():237}()
+ 6 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 7 APPPATH\Controllers\User.php(18): view('v_template_back_end', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\User->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-29 08:15:22 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "user/v_index.php"
+[Method: GET, Route: User]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/v_index.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('user/v_index', [], true)
+ 3 APPPATH\Views\v_template_back_end.php(213): view('user/v_index')
+ 4 SYSTEMPATH\View\View.php(240): include('C:\\laragon\\www\\gis_lokasi_kost_ci4\\app\\Views\\v_template_back_end.php')
+ 5 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():237}()
+ 6 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 7 APPPATH\Controllers\User.php(18): view('v_template_back_end', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\User->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-29 08:15:23 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "user/v_index.php"
+[Method: GET, Route: User]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/v_index.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('user/v_index', [], true)
+ 3 APPPATH\Views\v_template_back_end.php(213): view('user/v_index')
+ 4 SYSTEMPATH\View\View.php(240): include('C:\\laragon\\www\\gis_lokasi_kost_ci4\\app\\Views\\v_template_back_end.php')
+ 5 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():237}()
+ 6 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 7 APPPATH\Controllers\User.php(18): view('v_template_back_end', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\User->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-29 08:15:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "user/v_index.php"
+[Method: GET, Route: User]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/v_index.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('user/v_index', [], true)
+ 3 APPPATH\Views\v_template_back_end.php(213): view('user/v_index')
+ 4 SYSTEMPATH\View\View.php(240): include('C:\\laragon\\www\\gis_lokasi_kost_ci4\\app\\Views\\v_template_back_end.php')
+ 5 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():237}()
+ 6 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 7 APPPATH\Controllers\User.php(18): view('v_template_back_end', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\User->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-29 08:15:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "user/v_index.php"
+[Method: GET, Route: User]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/v_index.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('user/v_index', [], true)
+ 3 APPPATH\Views\v_template_back_end.php(213): view('user/v_index')
+ 4 SYSTEMPATH\View\View.php(240): include('C:\\laragon\\www\\gis_lokasi_kost_ci4\\app\\Views\\v_template_back_end.php')
+ 5 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():237}()
+ 6 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 7 APPPATH\Controllers\User.php(18): view('v_template_back_end', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\User->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-29 08:15:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "user/v_index.php"
+[Method: GET, Route: User]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/v_index.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('user/v_index', [], true)
+ 3 APPPATH\Views\v_template_back_end.php(213): view('user/v_index')
+ 4 SYSTEMPATH\View\View.php(240): include('C:\\laragon\\www\\gis_lokasi_kost_ci4\\app\\Views\\v_template_back_end.php')
+ 5 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():237}()
+ 6 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 7 APPPATH\Controllers\User.php(18): view('v_template_back_end', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\User->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-29 08:15:25 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "user/v_index.php"
+[Method: GET, Route: User]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/v_index.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('user/v_index', [], true)
+ 3 APPPATH\Views\v_template_back_end.php(213): view('user/v_index')
+ 4 SYSTEMPATH\View\View.php(240): include('C:\\laragon\\www\\gis_lokasi_kost_ci4\\app\\Views\\v_template_back_end.php')
+ 5 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():237}()
+ 6 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 7 APPPATH\Controllers\User.php(18): view('v_template_back_end', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\User->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-29 08:15:39 --> ErrorException: Undefined property: App\Controllers\User::$ModelUser
+[Method: GET, Route: User]
+in APPPATH\Controllers\User.php on line 16.
+ 1 APPPATH\Controllers\User.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\User::$ModelUser', 'C:\\laragon\\www\\gis_lokasi_kost_ci4\\app\\Controllers\\User.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\User->index()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-29 08:15:40 --> ErrorException: Undefined property: App\Controllers\User::$ModelUser
+[Method: GET, Route: User]
+in APPPATH\Controllers\User.php on line 16.
+ 1 APPPATH\Controllers\User.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\User::$ModelUser', 'C:\\laragon\\www\\gis_lokasi_kost_ci4\\app\\Controllers\\User.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\User->index()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-29 08:16:10 --> ErrorException: Undefined property: App\Controllers\User::$ModelUser
+[Method: GET, Route: User]
+in APPPATH\Controllers\User.php on line 16.
+ 1 APPPATH\Controllers\User.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\User::$ModelUser', 'C:\\laragon\\www\\gis_lokasi_kost_ci4\\app\\Controllers\\User.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\User->index()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-29 08:16:11 --> ErrorException: Undefined property: App\Controllers\User::$ModelUser
+[Method: GET, Route: User]
+in APPPATH\Controllers\User.php on line 16.
+ 1 APPPATH\Controllers\User.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\User::$ModelUser', 'C:\\laragon\\www\\gis_lokasi_kost_ci4\\app\\Controllers\\User.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\User->index()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-04-29 08:17:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 08:17:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 08:24:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 08:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 08:43:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-04-29 08:48:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 08:48:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 08:50:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 08:50:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 08:54:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 08:54:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 08:54:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 08:54:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 08:54:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 08:54:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 08:56:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 08:56:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 08:56:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 08:56:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 08:57:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 08:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 08:57:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 08:57:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 09:00:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 09:00:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-04-29 09:00:07 --> ErrorException: Undefined array key "kategori"
+[Method: GET, Route: kategori]
+in APPPATH\Views\v_kategori.php on line 55.
+ 1 APPPATH\Views\v_kategori.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kategori"', 'C:\\laragon\\www\\gis_lokasi_kost_ci4\\app\\Views\\v_kategori.php', 55)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\laragon\\www\\gis_lokasi_kost_ci4\\app\\Views\\v_kategori.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():237}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('v_kategori', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(213): view('v_kategori')
+ 6 SYSTEMPATH\View\View.php(240): include('C:\\laragon\\www\\gis_lokasi_kost_ci4\\app\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():237}()
+ 8 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Kategori.php(26): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Kategori->index()
+11 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kategori))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-04-29 09:00:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 09:00:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-04-29 09:00:08 --> ErrorException: Undefined array key "kategori"
+[Method: GET, Route: kategori]
+in APPPATH\Views\v_kategori.php on line 55.
+ 1 APPPATH\Views\v_kategori.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kategori"', 'C:\\laragon\\www\\gis_lokasi_kost_ci4\\app\\Views\\v_kategori.php', 55)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\laragon\\www\\gis_lokasi_kost_ci4\\app\\Views\\v_kategori.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():237}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('v_kategori', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(213): view('v_kategori')
+ 6 SYSTEMPATH\View\View.php(240): include('C:\\laragon\\www\\gis_lokasi_kost_ci4\\app\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():237}()
+ 8 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Kategori.php(26): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Kategori->index()
+11 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kategori))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-04-29 09:01:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 09:01:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 09:01:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 09:01:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 09:03:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 09:03:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 09:06:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 09:06:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 09:07:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 09:07:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 09:10:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 09:10:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-04-29 09:10:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(921): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-04-29 09:10:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
